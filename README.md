@@ -4,10 +4,12 @@ This program is intended to predict the median salary of a software developer in
 
 San Francisco
 > Predicted: $116,370.98
+
 > Actual: $110,554
 
 San Diego
 > Predicted: $95,248.59
+
 > Actual: $92,016
 
 Predictor.py
