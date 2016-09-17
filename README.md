@@ -16,7 +16,7 @@ San Diego
 > Actual: $92,016
 
 Ventura
-> Predicted: $70,716.76
+> Predicted: $89,235.85
 
 > Actual: $87,279
 
