@@ -6,17 +6,17 @@ This program is intended to predict the median salary of a software developer in
 
 
 San Francisco
-> Predicted: $116,370.98
+> Predicted: $115,995.48
 
 > Actual: $110,554
 
 San Diego
-> Predicted: $95,248.59
+> Predicted: $95,443.30
 
 > Actual: $92,016
 
 Ventura
-> Predicted: $89,610.80
+> Predicted: $70,716.76
 
 > Actual: $87,279
 
@@ -26,12 +26,12 @@ Houston
 > Actual: $75,053
 
 St. Louis
-> Predicted: $87,399.52
+> Predicted: $87,469.17
 
 > Actual: $75,000
 
 Somserset
-> Predicted: $97,025.46
+> Predicted: $95,705.28
 
 > Actual: $94,946
 
