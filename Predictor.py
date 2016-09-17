@@ -35,7 +35,6 @@ def initDensity():
 		loc = l[1]
 		loc = loc[:loc.index(",")]
 		loc = " ".join(loc.split()[:-1])
-		print(loc)
 		density[loc] = l[0]
 	density['District of Columbia'] = density['District of']
 	density.pop('District of', None)
