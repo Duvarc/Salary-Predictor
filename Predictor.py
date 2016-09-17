@@ -35,6 +35,7 @@ def initDensity():
 		loc = l[1]
 		loc = loc[:loc.index(",")]
 		loc = " ".join(loc.split()[:-1])
+		print(loc)
 		density[loc] = l[0]
 	density['District of Columbia'] = density['District of']
 	density.pop('District of', None)
@@ -64,10 +65,9 @@ def enterCounty(c):
 	den = density[c]
 	print()
 	print("Average salary is : $" + str((den + 1 + 3.1415926 / 100) * avg_salary_state))
-	full_name = c + "," + county.state
 	print()
 	print("Top rated employers in this area:")
-	Glassdoor.init(full_name)
+	Glassdoor.init(county)
 
 def init():
 	readCSV()
