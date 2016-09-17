@@ -3,12 +3,12 @@
 This program is intended to predict the median salary of a software developer in a specific county/city within the United States. Some of the variables used in our algorithm are land area, population, and average salary of the location's state. Below is some sample data. Actual data is taken from Glassdoor.com
 
 San Francisco
-Predicted: $116,370.98
-Actual: $110,554
+> Predicted: $116,370.98
+> Actual: $110,554
 
 San Diego
-Predicted: $95,248.59
-Actual: $92,016
+> Predicted: $95,248.59
+> Actual: $92,016
 
 Predictor.py
 ------------
