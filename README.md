@@ -1,6 +1,9 @@
 # Salary-Predictor
 
+Contributers: Hung-wei Chuang, Edward Doyle, Tony Zhao, Austen Zhu
+
 This program is intended to predict the median salary of a software developer in a specific county/city within the United States. Some of the variables used in our algorithm are land area, population, and average salary of the location's state. Below is some sample data. Actual data is taken from Glassdoor.com and other sources.
+
 
 San Francisco
 > Predicted: $116,370.98
