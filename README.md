@@ -17,8 +17,13 @@ Ventura
 
 > Actual: $87,279
 
+Houston
+> Predicted: $68,313.08
+
+> Actual: $75,053
+
 St. Louis
-> Predicted: $87,399.524764
+> Predicted: $87,399.52
 
 > Actual: $75,000
 
