@@ -123,7 +123,7 @@ def getEmployers():
 			list_employers.append(Company(x["name"], x["overallRating"]))
 
 def printEmployers():
-	for c in list_employers[:10]:
+	for c in list_employers[:40]:
 		print(c)
 
 def init(loc):
